@@ -4,8 +4,8 @@ LAB - Class 07
 Project Name : Express
 Author: Group Name / obada / ibrahim /nassem
 Links and Resources
-submission PR ()
-ci/cd (GitHub Actions)
+submission PR (https://github.com/401-advanced-javascript-obadaalmatrami/lab-07-api-server/pull/1)
+ci/cd (https://github.com/401-advanced-javascript-obadaalmatrami/lab-07-api-server/actions)
 
 PORT - Port Number (3000)
 MONGODB_URI - URL to the running mongo instance/db
